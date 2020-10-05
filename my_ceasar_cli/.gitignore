@@ -1,0 +1,5 @@
+node_modules
+commander
+encoded.txt
+output.txt
+.DS_Store
